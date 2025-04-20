@@ -2,7 +2,7 @@ name: CI/CD para pruebas con Jest
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   test:
